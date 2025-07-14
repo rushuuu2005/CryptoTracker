@@ -1,0 +1,1 @@
+export const COINGEKO_API_KEY = "https://api.coingecko.com/api/v3";
